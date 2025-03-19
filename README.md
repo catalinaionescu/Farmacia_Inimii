@@ -1,4 +1,5 @@
 Pharmacy Data Management System - "Farmacia Inimii"
+
 Overview
 "Farmacia Inimii" is a full-featured web-based system designed to manage data for pharmacies. The platform simplifies and centralizes operations such as inventory management, client tracking, supplier details, and production facilities. Built with scalability in mind, it can support both individual pharmacies and larger pharmacy networks.
 

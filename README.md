@@ -49,16 +49,3 @@ Users can add, edit, view, or delete records across all modules, with backend lo
 Admin Operations:
 CRUD operations are handled via dedicated PHP scripts (e.g., medicamente.php, edit_medicament.php, etc.).
 
-Installation
-Clone the repository:
-git clone https://github.com/yourusername/pharmacy-system.git
-Set up a local server (e.g., XAMPP, WAMP).
-Import the provided SQL schema into MySQL.
-Configure database credentials in config.php.
-Access the system via localhost/pharmacy-system.
-Future Improvements
-Implement advanced reporting (e.g., stock alerts, sales reports).
-Add role-based access (admin vs. staff).
-Integrate API endpoints for external systems.
-License
-This project is for educational purposes and is not licensed for commercial use.
